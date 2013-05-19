@@ -1,4 +1,4 @@
 junit-support
 =============
 
-classed for supporting a unit test 
+classes for supporting a unit test 
